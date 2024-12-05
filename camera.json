@@ -7,5 +7,14 @@
         "status": "به‌رده‌سته‌",
         "orderLink": "project.html?id=1",
         "lightboxLink": "img/test.png"
+    },
+    {
+        "id": 2,
+        "image": "img/test.png",
+        "title": "كامێرا",
+        "description": "سێتی 6 كامێرای 4 مێگا پێكسل شه‌و ڕۆژ مله‌وه‌ن و ده‌نگ",
+        "status": "به‌رده‌سته‌",
+        "orderLink": "project.html?id=1",
+        "lightboxLink": "img/test.png"
     }
 ]
